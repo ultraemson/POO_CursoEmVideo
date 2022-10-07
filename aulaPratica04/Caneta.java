@@ -20,5 +20,5 @@ public class Caneta {
         System.out.println("Modelo: "+this.modelo);
         System.out.println("Ponta: "+this.ponta);
     }
-
+    
 }

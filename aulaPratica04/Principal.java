@@ -5,7 +5,7 @@ public class Principal {
         Caneta c1 = new Caneta();
         c1.setModelo("Bic");
         c1.setPonta(0.5f);
-        c1.status();
+        c1.status(); 
     }
     
 }
