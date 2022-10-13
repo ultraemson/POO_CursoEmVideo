@@ -1,7 +1,4 @@
 package aulaPratica05;
-
-
-
 public class ContaBanco {
     public int numConta;
     protected String tipoConta;
