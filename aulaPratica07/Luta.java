@@ -1,6 +1,6 @@
 package aulaPratica07;
 
-public class Luta {
+public class Luta extends Lutador {
     private String desafiante;
     private String desafiando;
     private int rounds;
